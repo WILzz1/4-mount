@@ -171,14 +171,14 @@
     <section id="bulan2" class="section parallax parallax2">
         <div class="container story">
             <h2>Bulan 2: Mengenal Lebih Dalam</h2>
-            <p>Bulan kedua penuh dengan petualangan. aku masih membuat masalah aku sangat minta maaf, but im so happy kamu selalu ada disisi aku sayang makasih banyak yah cinta.</p>
+            <p>Bulan kedua penuh dengan petualangan. aku masih membuat masalah aku sangat minta maaf, but im so happy kamu selalu ada disisi aku sayang makasih banyak yah cinta.Bahagia selalu sayang aku manis ku cinta</p>
         </div>
     </section>
 
     <section id="bulan3" class="section parallax parallax1">
         <div class="container story">
             <h2>Bulan 3: Tantangan dan Kekuatan</h2>
-            <p>Di bulan ketiga, ada tantangan yang kita hadapi bersama. Tapi itu justru membuat hubungan kita lebih kuat. Kita saling mendukung, dan aku semakin yakin bahwa kamu adalah orang yang tepat.</p>
+            <p>Di bulan ketiga, ada tantangan yang kita hadapi bersama. Tapi itu justru membuat hubungan kita lebih kuat. Kita saling mendukung, dan aku semakin yakin bahwa kamu adalah orang yang tepat.Jangan lupa makan minum ya cantik aku</p>
         </div>
     </section>
 
@@ -205,7 +205,7 @@
     </section>
 
     <footer>
-        <p>Dibuat dengan cinta untukmu. © 2023</p>
+        <p>Dibuat dengan cintaku untukmu. © 2026</p>
     </footer>
 
     <script>
